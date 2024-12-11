@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name" : "Сириус",
+        "constellation" : "Большой Пес",
+        "is_visible" : true ,
+        "radius" : 1.7
+    } ,
+    {
+        "id": 2,
+        "name" : "Полярная звезда",
+        "constellation" : "Малая Медведица",
+        "is_visible" : true,
+        "radius" : 47
+    } ,
+    {
+        "id" : 3,
+        "name" : "Бетельгейзе",
+        "constellation" : "Орион",
+        "is_visible" : true,
+        "radius":764
+    } ,
+    {
+        "id" : 4,
+        "name" : "Альфа Центавра",
+        "constellation" : "Центавр",
+        "is_visible" : true,
+        "radius" : 0.123
+    },
+    {
+        "id" : 5,
+        "name" : "GJ 229",
+        "constellation" : "Заяц",
+        "is_visible" : false,
+        "radius" : 0.49
+    }
+]
